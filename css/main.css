@@ -19,3 +19,21 @@ h1 {
   animation: eye 1s 1.5s linear forwards;
   opacity: 0;
 }
+
+#rainbow-violet {
+  animation: rainbow 2s 1s linear forwards;
+  stroke-dasharray: 1920px;
+  stroke-dashoffset: 1920px;
+}
+
+#rainbow-indigo {
+  animation: rainbow 2s 1s linear forwards;
+  stroke-dasharray: 1813px;
+  stroke-dashoffset: 1813px;
+}
+
+#rainbow-blue {
+  animation: rainbow 2s 1s linear forwards;
+  stroke-dasharray: 1706px;
+  stroke-dashoffset: 1706px;
+}
