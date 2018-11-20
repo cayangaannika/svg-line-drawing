@@ -61,3 +61,27 @@ h1 {
   stroke-dasharray: 1244px;
   stroke-dashoffset: 1244px;
 }
+
+@keyframes body {
+
+  to {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes rainbow {
+
+  to {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes eye {
+
+  to {
+    opacity: 1;
+  }
+
+}
