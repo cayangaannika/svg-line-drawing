@@ -8,3 +8,14 @@ h1 {
   animation: eye 1s linear forwards;
   opacity: 0;
 }
+
+#narwhal-body {
+  animation: body 2s linear forwards;
+  stroke-dasharray: 1982px;
+  stroke-dashoffset: 1982px;
+}
+
+#narwhal-eye {
+  animation: eye 1s 1.5s linear forwards;
+  opacity: 0;
+}
